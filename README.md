@@ -100,7 +100,15 @@
 
 Пример работы:
 
-<img src="images/gallow.png" style="width: 500px; object-fit: cover;"/>
+ ```plaintext
+    +---+---+---+
+    |   =     B |
+    + ~ + = + ~ +
+    |   ~ B ~ G |
+    + ~ + = +   +
+    | B |   ~ G |
+    +---+---+---+
+   ```
 
 ---
 
