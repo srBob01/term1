@@ -8,7 +8,7 @@
 
 Проект в рамках модуля:
 
-[![Reflection Benchmark Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-efficiency&show_owner=true)](https://github.com/srBob01/term1-efficiency)
+[![Reflection Benchmark Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-efficiency&show_owner=true&dummy=12345)](https://github.com/srBob01/term1-efficiency)
 
 Особенности проекта:
 - Cравнения различных способов вызова методов в Java с помощью JMH (Java Microbenchmarking Harness).
@@ -33,7 +33,7 @@
 
 Проект в рамках модуля:
 
-[![Fractal Flame Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-fractalFlame&show_owner=true)](https://github.com/srBob01/term1-fractalFlame)
+[![Fractal Flame Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-fractalFlame&show_owner=true&cache_seconds=1800)](https://github.com/srBob01/term1-fractalFlame)
 
 Особенности проекта:
 - Однопоточный и многопоточный рендеринг изображений
@@ -68,7 +68,7 @@
 
 Проект в рамках модуля:
 
-[![Log Analyzer Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-logAnalyzer&show_owner=true)](https://github.com/srBob01/term1-logAnalyzer)
+[![Log Analyzer Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-logAnalyzer&show_owner=true&dummy=12345)](https://github.com/srBob01/term1-logAnalyzer)
 
 Особенности проекта:
 - Парсинг NGINX логов
@@ -88,7 +88,7 @@
 
 Проект в рамках модуля:
 
-[![Amazed Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-labirnts&show_owner=true)](https://github.com/srBob01/term1-labirnts)
+[![Amazed Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-labirnts&show_owner=true&dummy=12345)](https://github.com/srBob01/term1-labirnts)
 
 Особенности проекта:
 - Алгоритмы генерации лабиринтов - алгоритм Прима и Краскала.
@@ -118,7 +118,7 @@
 
 Проект в рамках модуля:
 
-[![Hangman Game Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-gallows&show_owner=true)](https://github.com/srBob01/term1-gallows)
+[![Hangman Game Gist Card](https://github-readme-stats.vercel.app/api/pin/?username=srBob01&repo=term1-gallows&show_owner=true&dummy=12345)](https://github.com/srBob01/term1-gallows)
 
 Особенности проекта:
 - Реализация через паттерн [состояние](https://refactoring.guru/ru/design-patterns/state)
